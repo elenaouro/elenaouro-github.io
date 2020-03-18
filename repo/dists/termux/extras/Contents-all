@@ -1,1 +1,2 @@
 data/data/com.termux/files/usr/libcpprest.a                                      cpprestsdk
+data/data/com.termux/files/usr/libzmq.a                                          zmq

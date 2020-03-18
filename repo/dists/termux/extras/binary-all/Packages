@@ -11,3 +11,15 @@ SHA1: a92d4bcb6a5f66bb16e66edabc01a85dc5da3d6b
 SHA256: 8e13d5acbaec43359e1dd70a25773e6cbf64f74cf203c4f030330ae9a0b9acfe
 SHA512: 51eb10772ddc8e4cd30adc45e77acecc0b533f10880de839554ec963bc1d11eeaf90433fd5f86c603b0b42d66fbff79cec0165b7f264c7ae2d449da5ffb40293
 
+Package: zmq
+Version: 1.0
+Architecture: all
+Maintainer: None
+Description: zeroMQ
+Filename: dists/termux/extras/binary-all/zmq_1.0_all.deb
+Size: 4533716
+MD5Sum: b1f7458e6f062651912c7898e82119c4
+SHA1: 4abc34e058aeeb5c4aaacc5e07fdb61c04292233
+SHA256: c85bf66f21e21d286a222c72dc49cdef09ab284ae1fd47ee1378072bfd201734
+SHA512: 017ef76220818790dc481affb70707cf5878c7e8897406efac7a9f242fbb7af04c6e64fdcc1fe607c397f42a53c9e97e3e3def088b0a2ef0597dd165b86a75f3
+
