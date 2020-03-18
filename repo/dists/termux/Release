@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: termux repository
+Suite: termux
+Date: Wed, 18 Mar 2020 14:44:04 UTC
+MD5Sum:
+ 4c2b17467e1500a2e50d435965cb4782 497 extras/binary-all/Packages
+ 3ab832291ed71d238ab8daa3ded65032 444 extras/binary-all/Packages.xz
+ 686ebafb1b972e8c8050c2ab5b9f4ed7 92 extras/Contents-all
+ 9cdded9e5184379f2144e12390a3d086 112 extras/Contents-all.xz
+SHA1:
+ f144568e3134927dc55be7146cea6ea8a9c991f1 497 extras/binary-all/Packages
+ 991eb0b44dab1e519b559c111687264842524837 444 extras/binary-all/Packages.xz
+ aa29c130a04ceb3e0b1a119b05d27b08da20e254 92 extras/Contents-all
+ a02f09621ffd8de95c6d881dfdbad3f797f26471 112 extras/Contents-all.xz
+SHA256:
+ 598e48a477795daaea8febca78e9dafc8013f6c2d94b8f4441e247ff38fcf81e 497 extras/binary-all/Packages
+ 179c5d645ed509840545936ee01e17fc7c2479b4d82c0e94fa26fc07224b4734 444 extras/binary-all/Packages.xz
+ 598417b11e2bbaab7d6d60c7888dd587df36813f101b75ae8738e1437b14f82c 92 extras/Contents-all
+ 0fbf1a8ff036084410d4b3b70032a466aca7daa37feeb45ba38cf824a0f0de0b 112 extras/Contents-all.xz
+SHA512:
+ 5f819bd25569d2aff2b559335dfee21b500473a1efb8b28bed9d284567d1ce12e82ab321505409921639ec2fb74290f85f37aea6358ed91ed699aee233824160 497 extras/binary-all/Packages
+ d0ec76949dfe1669c911168276da4f3065e0dd0bca2b80de7571cd5de2e238ed93955d3503afca30122b497cedb6ea4004aa35254dff831ba7776c523fdfaec2 444 extras/binary-all/Packages.xz
+ ff1642c5347e0836fe484e19f3c4baf4f2b814b42f14f38eb566572893cd4e8425a2424573fc89149cfeffc71aacc081a969cc2591aa3e7276077fe203e320cc 92 extras/Contents-all
+ 8700f37f1c28da85634560710b6279b1f168f9a785d26743d5c1be166a806b4cee3d0d890cf37a4dceb3554fe61fa81c7b0921ccabc7895e8983f59d14b36607 112 extras/Contents-all.xz

@@ -1,0 +1,13 @@
+Package: cpprestsdk
+Version: 1.0
+Architecture: all
+Maintainer: None
+Description: microsoft CPP rest SDK
+Depends: boost
+Filename: dists/termux/extras/binary-all/cpprestsdk_1.0_all.deb
+Size: 10929932
+MD5Sum: d47b39dc9a76ed70c92ee447ac078b38
+SHA1: a92d4bcb6a5f66bb16e66edabc01a85dc5da3d6b
+SHA256: 8e13d5acbaec43359e1dd70a25773e6cbf64f74cf203c4f030330ae9a0b9acfe
+SHA512: 51eb10772ddc8e4cd30adc45e77acecc0b533f10880de839554ec963bc1d11eeaf90433fd5f86c603b0b42d66fbff79cec0165b7f264c7ae2d449da5ffb40293
+
